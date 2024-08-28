@@ -67,12 +67,11 @@
     "id": "button",
     "fields": [
       {
-        "component": "reference",
+        "component": "text",
         "valueType": "string",
         "name": "href",
         "value": "",
-        "label": "Link",
-        "multi": false
+        "label": "Link"
       },
       {
         "component": "text",
