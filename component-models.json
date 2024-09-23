@@ -145,6 +145,13 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "product_picker",
+        "name": "product",
+        "value": "",
+        "label": "Featured Product",
+        "valueType": "string"
       }
     ]
   },
